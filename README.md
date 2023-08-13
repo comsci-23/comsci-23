@@ -23,7 +23,7 @@
 
 ---
 
-- 🔭 I’m working as a Full Stack Developer.
+- 🔭 I’m working as a Software Developer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chaiwat-sasithonratsame-614a8826b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
