@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m working as a Software Developer.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chaiwat-sasithonratsame-614a8826b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -26,10 +31,7 @@
 
 ---
 
-- 🔭 I’m working as a Software Developer.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/chaiwat-sasithonratsame-614a8826b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 
 ---
 
