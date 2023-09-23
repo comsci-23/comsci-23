@@ -3,6 +3,7 @@
 - 🔭 I’m working as a Software Developer.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chaiwat-sasithonratsame-614a8826b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=comsci-23&style=flat-square&color=blue" alt="account counter"/>
   </a>
 
 <div id="header" align="center">
